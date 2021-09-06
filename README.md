@@ -2,7 +2,8 @@
 
 - 🔭 Atualmente trabalho com desenvolvimento Angular + .NET C# na VALID S/A
 - 🌱 Atualmente estudo Experiência de usuário (UX) e Design Web na FATEC - Faculdade de Tecnologia de São Paulo 
-- ⚡ Fun fact: Guitarrista nas horas vagas, me siga no TikTok para ver mais! @_guh.souza
+- 🎸 Fun fact: Guitarrista nas horas vagas, me siga no TikTok para ver mais! @_guh.souza
+- 🕹 Criador do site de tecnologia www.techbots.com.br
 
 <div>
   <a href="https://github.com/GustavoSouza64">
