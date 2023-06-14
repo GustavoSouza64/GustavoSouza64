@@ -1,9 +1,8 @@
 ## Oii! eu sou o Gustavo Costa
 
 - 🔭 Atualmente trabalho com desenvolvimento Angular + .NET C# na VALID S/A
-- 🌱 Atualmente estudo Experiência de usuário (UX) e Design Web na FATEC - Faculdade de Tecnologia de São Paulo 
+- 🌱 Atualmente estudo Pós graduação Lato Sensu Segurança da Informação e Gestão de TI na Universidade Anhembi Morumbi 
 - 🎸 Fun fact: Guitarrista nas horas vagas, me siga no TikTok para ver mais! @_guh.souza
-- 🕹 Criador do site de tecnologia www.techbots.com.br
 - ✉ Email: gustavo.souza64@hotmail.com
 
 <div style="display: inline_block">
