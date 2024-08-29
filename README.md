@@ -4,12 +4,6 @@
 - 🌱 Atualmente estudo Pós graduação Lato Sensu Segurança da Informação e Gestão de TI na Universidade Anhembi Morumbi 
 - 🎸 Fun fact: Guitarrista nas horas vagas, me siga no TikTok para ver mais! @_guh.souza
 - ✉ Email: gustavo.souza64@hotmail.com
-
-<div style="display: inline_block">
-  <a href="https://github.com/GustavoSouza64">
-  <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoSouza64&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSouza64&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
